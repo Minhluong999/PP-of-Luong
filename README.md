@@ -128,6 +128,29 @@ Tại Insert And Update Specification ----> chọn Update Rule : CASCADE ( CASCA
 
 
 Liên kết khoá chínhh, khoá ngoại
+vào database diagram => new database diagram
+add ta được sơ đồ liên kết
+
+![image](https://github.com/user-attachments/assets/128f712f-153c-4134-859c-8220720df27d)
+
+![image](https://github.com/user-attachments/assets/2a0677b1-7b97-4eb5-ac22-84197b741b38)
+
+![image](https://github.com/user-attachments/assets/ddc38bb7-ff27-4fe3-bba7-79dbb761195e)
+
+
+Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương
+
+![image](https://github.com/user-attachments/assets/d501c88c-5e3d-4943-a8d0-11dc060f0788)
+
+chuột phải vào bảng cần chuyển => script table as => create to => new query ... 
+Lệnh Sql sau khi chuyển từ thao tác đồ hoạ của bảng 
+
+![image](https://github.com/user-attachments/assets/9bb287b0-3fee-4d03-a8c2-67b878b69e58)
+
+
+
+các bảng khác làm tương tự 
+
 
 
 
