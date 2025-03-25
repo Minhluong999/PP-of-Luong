@@ -82,8 +82,52 @@ Thực hiện thêm các thuộc tính theo yêu cầu vào mỗi bảng với k
 ![image](https://github.com/user-attachments/assets/9d9f027d-59b6-40b8-8e86-b3188eb67096)
 
 
+Thêm ràng buộc vào những bảng có thuộc tính cần thiết ràng buộc
+
+Nhấp chuột phải vào khoảng trống bất kì trong mục 'Design' của bảng ---> Check constraints
+![image](https://github.com/user-attachments/assets/09929bab-aead-4ee6-af4d-82227b9b2956)
+
+![image](https://github.com/user-attachments/assets/27475e4e-baa3-4201-86d0-aa8819675c34)
+
+add 
+làm tương tự với các bảng khác
 
 
+Cài khóa chính cho các thuộc tính trong bảng:
+Nhấp chuột phải vào thuộc tính ---> set primary key
+
+![image](https://github.com/user-attachments/assets/cf63edcb-d463-4bda-90d6-d968099b7b82)
+
+làm tương tự với các bảng khác
+
+Cài đặt khóa ngoại(FK) cho các thuộc tính:
+
+Chỉ có thể cài khóa ngoại khi thuộc tính đó là khóa chính tại một bảng mà chúng ta muốn liên kết tới
+
+Nhấp chuột phải vào bất kì trong mục 'Design' của bảng ---> Relationship
+
+![image](https://github.com/user-attachments/assets/fa0d655d-13e7-44ed-b5f5-50ef32e74414)
+
+Add(thêm khóa ngoại) ----> Nhấp vào '...' tại Tables And Columns Specification ( liên kết khóa chính của bảng này với khóa ngoại của bảng kia)
+
+Tại Insert And Update Specification ----> chọn Update Rule : CASCADE ( CASCADE để bảo bảo tính nhất quán dữ liệu, nếu dữ liệu của thuộc tính khóa chính bị thay đổi thì dữ liệu của khóa ngoại tại bảng liên kết cũng sẽ thay đổi theo)
+
+![image](https://github.com/user-attachments/assets/82a4978b-b4cf-428c-b341-5fab19080603)
+
+
+![image](https://github.com/user-attachments/assets/0a2e780f-01dc-4475-9997-4f807d6a5279)
+
+
+![image](https://github.com/user-attachments/assets/b6fcc7fd-8751-4c16-8fd2-58f7346b35b6)
+
+
+![image](https://github.com/user-attachments/assets/197b1e9c-a839-4737-8faf-db4249dba2c9)
+
+
+... với các bảng khác làm tương tự
+
+
+Liên kết khoá chínhh, khoá ngoại
 
 
 
