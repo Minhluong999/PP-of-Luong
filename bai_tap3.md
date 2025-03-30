@@ -24,3 +24,12 @@ YÊU CẦU:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.Sửa bảng DKMH và bảng Điểm từ bài tập 2
 sửa bảng DKMH
+![image](https://github.com/user-attachments/assets/bc455947-21fa-4563-b71d-568ff053b108)
+bảng Diem
+![image](https://github.com/user-attachments/assets/877f3b1f-3bcb-4856-9feb-ede5ce8a95d9)
+Tạo FK của bảng Diem liên kết với PK của bảng DKMH (id_dk)
+![image](https://github.com/user-attachments/assets/ee78c24c-95ac-4518-b613-d42c2a56dca9)
+2.Nhập dữ liệu demo cho các bảng (nhập có kiểm soát từ tính năng Edit trên UI của mssm)
+Thao tác đồ họa nhập có kiểm soát từ tính năng Edit trên UI cho các bảng: nhấp chuột phải vào dbo ===> edit top 200 rows
+![image](https://github.com/user-attachments/assets/aa1e9712-0386-445e-93c1-ea5220058ef3)
+Nhập dữ liệu vào
